@@ -1,3 +1,3 @@
 # my-project
-https://github.com/taraselnik/mate-js-learning-local.git
-https://github.com/taraselnik/mate-js-learning-local/pull/1
+[preview]https://github.com/taraselnik/mate-js-learning-local.git
+[Pull request]https://github.com/taraselnik/mate-js-learning-local/pull/1/files
